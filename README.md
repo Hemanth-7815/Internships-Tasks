@@ -1,1 +1,1 @@
-# Internships-Tasks
+Cleaned the sales dataset by checking for missing values, duplicate records, inconsistent formats, and data types. Standardized column names, verified date consistency, and removed unnecessary empty columns. The final dataset is clean and ready for analysis.
